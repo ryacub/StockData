@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StockData</string>
+    <string name="ask">Ask: $%s</string>
+    <string name="bid">Bid: $%s</string>
+    <string name="change">Change: %s</string>
+    <string name="stock_name">Symbol: %s</string>
+
+</resources>
